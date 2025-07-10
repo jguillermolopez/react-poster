@@ -28,6 +28,7 @@ A full-stack React.js application for creating and viewing short posts. This pro
 
 ## 🧱 Project Structure
 
+```
 react-poster/
 ├── backend/
 │ ├── app.js
@@ -57,6 +58,7 @@ react-poster/
 │ │ └── PostDetails.module.css
 │ ├── main.jsx
 │ └── index.css
+```
 
 ## 📦 Installation & Setup
 
